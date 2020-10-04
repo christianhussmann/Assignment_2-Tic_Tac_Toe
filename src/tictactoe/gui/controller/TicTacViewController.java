@@ -22,7 +22,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 
 /**
- * @author Stegger
+ * @author Christian Hussmann
  */
 public class TicTacViewController implements Initializable {
     @FXML
